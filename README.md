@@ -4,10 +4,10 @@ Projet réalisé dans le cadre d'une évaluation de deep learning. L'objectif é
 
 ## Ce que fait ce projet
 
-**Partie 1 — Classification CIFAR-100**  
+**Partie 1: Classification CIFAR-100**  
 Comparaison d'un MLP et d'un CNN sur le dataset CIFAR-100 (100 classes, 60 000 images). Le CNN atteint ~54% de précision contre ~14% pour le MLP — ce qui montre bien l'intérêt des convolutions pour les images.
 
-**Partie 2 — Détection et biais**  
+**Partie 2: Détection et biais**  
 - Détection de visages sur une image réelle avec OpenCV (Haar Cascade)
 - Entraînement d'un CNN de reconnaissance sur Olivetti Faces (40 personnes, 400 images)
 - Analyse des biais : les images sombres ou peu contrastées sont systématiquement moins bien reconnues
