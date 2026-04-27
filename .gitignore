@@ -22,20 +22,16 @@ __pycache__/
 *.pickle
 
 # Images et visualisations générées
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
+# (on garde les images du projet)
 
 # Rapports
-*.txt
+# (on garde le PDF du sujet)
 !requirements.txt
 !README.md
+!*.pdf
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # IDE
 .vscode/
