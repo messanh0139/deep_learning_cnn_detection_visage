@@ -35,4 +35,4 @@ Python 3.13 · TensorFlow 2.21 · Keras 3.14 · OpenCV · scikit-learn · Matplo
 
 - `Deep_Learning_CIFAR100.ipynb` pour la Partie 1
 - `Partie2_Detection_Visage_Biais.ipynb` pour la Partie 2
-- `image.jpeg` — image de test pour la détection
+- `image.jpeg` : image de test pour la détection
