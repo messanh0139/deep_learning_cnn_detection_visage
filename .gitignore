@@ -1,0 +1,58 @@
+# Environnements Python
+venv/
+.venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Modèles entraînés
+*.keras
+*.h5
+*.pb
+*.ckpt
+*.weights
+
+# Fichiers de données
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Images et visualisations générées
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Rapports
+*.txt
+!requirements.txt
+!README.md
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
